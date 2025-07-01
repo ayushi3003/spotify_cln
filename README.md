@@ -35,3 +35,4 @@ This project was created to:
 - Understand how media elements (like `<audio>`) work in browsers
 - Recreate real-world UI and interactions
    
+**Disclaimer:** This Spotify clone was developed for educational purposes only. It is not affiliated with Spotify in any way and does not collect or store any user data.
